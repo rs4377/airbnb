@@ -40,7 +40,7 @@ const closeModel = () => {
     <div
       class="p-4 bg-white  mt-4 flex justify-between items-center flex-wrap ">
       <h1 class="text-xl font-bold mt-2 text-black">
-        Train for Gladiator II glory
+        Train for Gladiator II glory glory
       </h1>
       <div class="flex">
       <button
